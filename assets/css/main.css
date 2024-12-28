@@ -2217,7 +2217,7 @@ input, select, textarea {
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
-			color: #fff;
+			color: #000000;
 		}
 
 			.wrapper.style2 input[type="button"]:hover,
