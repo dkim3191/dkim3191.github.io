@@ -2159,7 +2159,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: rgba(188, 202, 206, 0.15);
+			background: #83d3c9;
 			border-color: inherit;
 		}
 
