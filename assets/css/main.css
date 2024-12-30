@@ -2427,7 +2427,7 @@ input, select, textarea {
 	}
 
 		#banner .inner {
-			background: #87CEEB;
+			background: rgba(135, 206, 235, 0.5);
 			color: #000;
 			display: inline-block;
 			padding: 3em;
