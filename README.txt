@@ -7,14 +7,8 @@ Not sure how to get that contact form working? Give formspree.io a try (it's awe
 
 
 Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-			"Night Vision"
-			"At the Station II"
-			"Airchitecture II"
-			"Livewires II"
-			"Midnite Xpress I"
+	Images:
+		pexels.com
 
 	Icons:
 		Font Awesome (fontawesome.io)
