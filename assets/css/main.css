@@ -2503,10 +2503,15 @@ input, select, textarea {
 /* CTA */
 
 	#cta {
-		background-color: #87CEEB;
-		color: #000;
-		padding: 5em;
-		text-align: center;
+		background-attachment: scroll, scroll, scroll, fixed;
+	    	background-color: #87CEEB;
+	    	background-image: url(images/light-tl.svg), url(images/light-tr.svg), url(images/overlay.png), url(../../images/banner.jpg);
+	    	background-position: top left, top right, top left, bottom center;
+	    	background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+	    	background-size: 25em, 25em, auto, cover;
+	    	color: #000;
+	    	padding: 5em;
+	    	text-align: center;
 	}
 
 		#cta header {
